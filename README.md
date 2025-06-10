@@ -67,10 +67,8 @@ This project analyzes Twitter sentiment during the 2020 US Presidential Election
 2. **Twitter Demographic Bias**:
    - Over-represents younger, urban populations
    - Includes non-voters and underage Americans (~20% of Twitter users are 13-17)
-   - Only ~22% of US adults use Twitter regularly
 
 3. **Platform Representation Gap**:
-   - Twitter users represent <10% of actual voters
    - Excludes non-social-media voters (older demographics)
    - Misses private/closed platforms (Facebook groups, WhatsApp)
 
@@ -79,8 +77,4 @@ This project analyzes Twitter sentiment during the 2020 US Presidential Election
    - Non-English tweets excluded from analysis
    - Location data often missing/imprecise (~35% of tweets had no GPS)
 
-5. **Temporal Limitations**:
-   - Only captures pre-election period (Oct-Nov 2020)
-   - Misses late-breaking news impacts
-   - No post-election sentiment tracking
-   - 
+ 
