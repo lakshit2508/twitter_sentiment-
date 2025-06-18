@@ -2,12 +2,12 @@
   *(Source: [Kaggle Twitter US El# 2020 US Election Sentiment Analysis
 
 ![Project Banner](https://example.com/path/to/banner_image.png) *(Optional: Add relevant image)*
-###Twitter Sentiment Analysis Report
+Twitter Sentiment Analysis Report
 
-##Introduction
+Introduction
 This project analyzes Twitter sentiment during the 2020 US Presidential Election to gain a deeper understanding of public opinion toward Joe Biden and Donald Trump. It aims to measure sentiment trends, identify geographic patterns in candidate support, and examine how these insights align with actual electoral outcomes.
 The primary objectives of this analysis include:
-**Measuring public sentiment toward Biden and Trump through social media by classifying tweets as positive, negative, or neutral.
+Measuring public sentiment toward Biden and Trump through social media by classifying tweets as positive, negative, or neutral.
 
 Identifying geographic patterns in candidate support based on the regional distribution of tweets and sentiment scores.
 
