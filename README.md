@@ -86,6 +86,10 @@ Taking the average of α = 50% and α = 100% gives:
 
 This confirms our hypothesis that 40–50% of negative sentiment toward one candidate likely translated into support for the other.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5b18816b-ddd5-44f9-bda4-3c5e882f9fa9" alt="Sentiment Plot" width="400"/>
+</div>
+
 ### Geographic Insights
 
 - Trump showed stronger support in rural and southern states.
