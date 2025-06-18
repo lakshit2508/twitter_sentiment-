@@ -101,6 +101,8 @@ Further it is evident that Trump has more negative senitments to positive sentim
 - Biden dominated coastal and urban regions.
 - Sentiment trends across over 40 states closely reflected public opinion patterns.
 - The analysis also unfolded global sentiments toward the US elections, revealing international trends for both Biden and Trump through worldwide tweet activity.
+  ![image](https://github.com/user-attachments/assets/69832f9d-fd1b-45c1-95fe-5a21358c2b24)
+
 
 Global Tweet for Trump
   
