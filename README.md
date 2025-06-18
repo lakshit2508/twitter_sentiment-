@@ -118,7 +118,10 @@ Global Tweet for Biden
 
 - Trump’s tweets had **higher total interactions**
 
-![image](https://github.com/user-attachments/assets/b8d28b5f-390c-49b8-89f5-6c809c89eaa1)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/078cf171-8b63-4499-841f-f91118830105" alt="Sentiment Plot" width="450"/>
+</div>
 
   
 - **Biden had higher average engagement**, with **10.58 likes per tweet** versus **Trump’s 7.41 likes per tweet**.
