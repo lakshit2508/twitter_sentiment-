@@ -95,6 +95,15 @@ This confirms our hypothesis that 40–50% of negative sentiment toward one cand
 - Trump showed stronger support in rural and southern states.
 - Biden dominated coastal and urban regions.
 - Sentiment trends across over 40 states closely reflected public opinion patterns.
+- The analysis also unfolded global sentiments toward the US elections, revealing international trends for both Biden and Trump through worldwide tweet activity.
+- Global Tweet for Trump 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/96eae371-ecde-4ce6-b770-43777a13d998" alt="Sentiment Plot" width="700"/>
+</div>
+-Global Tweet for Biden
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d40bd0f9-9a8a-4e94-a87c-ce8f2c284f96" alt="Sentiment Plot" width="700"/>
+</div>
 
 ### Engagement Patterns
 
