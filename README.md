@@ -120,11 +120,21 @@ Global Tweet for Biden
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/078cf171-8b63-4499-841f-f91118830105" alt="Sentiment Plot" width="450"/>
+  <img src="https://github.com/user-attachments/assets/078cf171-8b63-4499-841f-f91118830105" alt="Sentiment Plot" width="600"/>
 </div>
 
   
 - **Biden had higher average engagement**, with **10.58 likes per tweet** versus **Trump’s 7.41 likes per tweet**.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0074cde7-c0fd-49c8-8ac0-a7b5b2088fe3" alt="Sentiment Plot" width="600"/>
+</div>
+
+<div align="center">
+  <img src=https://github.com/user-attachments/assets/d7bb33c9-cc50-431c-88e9-991ea20c483c
+" alt="Sentiment Plot" width="600"/>
+</div>
+
 - Biden gained more consistent momentum closer to election day.
 
 ### Word Frequency Insights
