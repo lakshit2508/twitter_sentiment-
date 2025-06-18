@@ -1,4 +1,5 @@
-![Project Banner](https://example.com/path/to/banner_image.png) *(Optional: Add relevant image)*
+![image](https://github.com/user-attachments/assets/309a716f-2361-40fe-af09-6829149e5f1b)
+
 # Twitter Sentiment Analysis Report
 
 ## Introduction
