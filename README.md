@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/309a716f-2361-40fe-af09-6829149e5f1b" alt="Sentiment Plot" width="400"/>
 </div>
+
 # Twitter Sentiment Analysis Report
 
 ## Introduction
