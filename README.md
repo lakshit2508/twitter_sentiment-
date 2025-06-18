@@ -137,6 +137,8 @@ Global Tweet for Biden
 </div>
 
 - Biden gained more consistent momentum closer to election day.
+  ![image](https://github.com/user-attachments/assets/199f0bc4-f549-4449-8c11-4c4f63e429a3)
+
 
 ### Word Frequency Insights
 
