@@ -1,6 +1,3 @@
-85,921 Trump-related tweets  
-  *(Source: [Kaggle Twitter US El# 2020 US Election Sentiment Analysis
-
 ![Project Banner](https://example.com/path/to/banner_image.png) *(Optional: Add relevant image)*
 # Twitter Sentiment Analysis Report
 
