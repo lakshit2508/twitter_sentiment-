@@ -89,6 +89,10 @@ This confirms our hypothesis that 40–50% of negative sentiment toward one cand
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5b18816b-ddd5-44f9-bda4-3c5e882f9fa9" alt="Sentiment Plot" width="700"/>
 </div>
+Further it is evident that Trump has more negative senitments to positive sentiments compared to Biden 
+
+![image](https://github.com/user-attachments/assets/586f6742-e705-418f-a57f-62893c2fba9a)
+
 
 ### Geographic Insights
 
