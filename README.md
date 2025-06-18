@@ -91,7 +91,7 @@ This confirms our hypothesis that 40–50% of negative sentiment toward one cand
 </div>
 Further it is evident that Trump has more negative senitments to positive sentiments compared to Biden 
 
-<div align="left">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/586f6742-e705-418f-a57f-62893c2fba9a" alt="Sentiment Plot" width="500"/>
 </div>
 
@@ -116,7 +116,11 @@ Global Tweet for Biden
 
 ### Engagement Patterns
 
-- Trump’s tweets had **higher total interactions**, but:
+- Trump’s tweets had **higher total interactions**
+
+![image](https://github.com/user-attachments/assets/b8d28b5f-390c-49b8-89f5-6c809c89eaa1)
+
+  
 - **Biden had higher average engagement**, with **10.58 likes per tweet** versus **Trump’s 7.41 likes per tweet**.
 - Biden gained more consistent momentum closer to election day.
 
