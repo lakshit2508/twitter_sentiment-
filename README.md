@@ -56,6 +56,10 @@ By using sentiment analysis and geospatial tools, we explore not only who was su
 - **nltk.vader**: for performing sentiment analysis using VADER
 
 ## Key Results
+- Comparision of Actual Election with Twitter Sentiments
+![WhatsApp Image 2025-08-02 at 22 23 52_5b633df2](https://github.com/user-attachments/assets/a8b0e597-8221-46ff-9749-e64d8884bad6)
+
+
 
 ### Sentiment Findings
 
