@@ -62,7 +62,7 @@ By using sentiment analysis and geospatial tools, we explore not only who was su
 
 
 ### Sentiment Findings
-
+#### Protest Voting
 - Trump received **54.4%** positive sentiment, indicating a highly engaged base.
 - Biden had **45.6%** positive sentiment but with fewer sharp declines.
 - **Weighted sentiment** leaned toward Biden at **50.9%** vs. Trump’s **49.1%**, closely matching actual election results.
