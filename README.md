@@ -30,10 +30,11 @@ By using sentiment analysis and geospatial tools, we explore not only who was su
 - Cleaned tweets by removing URLs, mentions, special characters, and short or duplicate tweets.
 - Filtered out non-English tweets.
 - Extracted location data where available.
+- Selected only the tweets with country of origin as United States.
 
 ### Sentiment Analysis
 
-- Used VADER sentiment analyzer to categorize tweets as positive, neutral, or negative.
+- Used VADER Unsupervised NLP model to categorize tweets as positive, neutral, or negative.
 - Calculated compound sentiment scores to quantify tweet tone.
 
 ### Geospatial Analysis
@@ -43,6 +44,8 @@ By using sentiment analysis and geospatial tools, we explore not only who was su
 ### Statistical Modeling
 
 - Used charts and a sentiment weighting formula to examine sentiment trends and predict candidate momentum.
+- Calculated the likely range of Protest Voting.
+- Calculated and visualised the Average Engagement for both the candidates.
 
 ### Tools Used
 
