@@ -25,7 +25,7 @@ By using sentiment analysis and geospatial tools, we explore not only who was su
 - **hashtag_donaldtrump.csv**: 971,087 Trump-related tweets  
 (Source: Kaggle - Twitter US Election 2020 Dataset)
 
-### Data Processing
+### Data Processing 
 
 - Cleaned tweets by removing URLs, mentions, special characters, and short or duplicate tweets.
 - Filtered out non-English tweets.
